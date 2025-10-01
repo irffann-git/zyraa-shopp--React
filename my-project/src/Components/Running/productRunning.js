@@ -1,0 +1,22 @@
+export const productRunning = [
+  { id: "run-1", img: "./run/r1.avif", brand: "AeroStride", desc: "Unisex Lightweight Running Shoes - Black", price: 2399, oldPrice: 3999, discount: "40%" },
+  { id: "run-2", img: "./run/r2.avif", brand: "SprintMax", desc: "Men's Flex Motion Running Sneakers - Black", price: 1899, oldPrice: 3299, discount: "42%" },
+  { id: "run-3", img: "./run/r3.avif", brand: "TrailBlaze", desc: "Men's Trail Running Shoes with Grip Sole - Black", price: 2499, oldPrice: 4499, discount: "44%" },
+  { id: "run-4", img: "./run/r4.avif", brand: "UrbanPace", desc: "Men's Breathable Mesh Running Shoes - Black", price: 2650, oldPrice: 4799, discount: "45%" },
+  { id: "run-5", img: "./run/r5.avif", brand: "Velocity Run", desc: "Unisex Cushion Running Sneakers - Black", price: 2599, oldPrice: 4999, discount: "48%" },
+  { id: "run-6", img: "./run/r6.avif", brand: "NeoStride", desc: "Men's Lightweight Training Shoes - Black", price: 1799, oldPrice: 3599, discount: "50%" },
+  { id: "run-7", img: "./run/r7.avif", brand: "FleetFeet", desc: "Men's Marathon Running Shoes - Black", price: 2599, oldPrice: 4599, discount: "43%" },
+  { id: "run-8", img: "./run/r8.avif", brand: "RunLite", desc: "Men's Road Running Sneakers - Black", price: 2650, oldPrice: 5199, discount: "49%" },
+  { id: "run-9", img: "./run/r9.avif", brand: "PeakMotion", desc: "Unisex Cushioned Jogging Shoes - Black", price: 2499, oldPrice: 4499, discount: "44%" },
+  { id: "run-10", img: "./run/r10.avif", brand: "StrideFlex", desc: "Men's Flex Run Sneakers - Black", price: 1899, oldPrice: 3499, discount: "46%" },
+  { id: "run-11", img: "./run/r11.avif", brand: "AeroStride Pro", desc: "Men's Marathon Training Shoes - Black", price: 2699, oldPrice: 4999, discount: "46%" },
+  { id: "run-12", img: "./run/r12.avif", brand: "UrbanSprint", desc: "Men's Mesh Running Shoes - Black", price: 2650, oldPrice: 5199, discount: "49%" },
+  { id: "run-13", img: "./run/r13.avif", brand: "TrailBlaze Lite", desc: "Unisex Lightweight Trail Sneakers - Black", price: 2399, oldPrice: 4299, discount: "44%" },
+  { id: "run-14", img: "./run/r14.avif", brand: "NeoRunner", desc: "Men's Daily Jogging Shoes - Black", price: 1899, oldPrice: 3599, discount: "47%" },
+  { id: "run-15", img: "./run/r15.avif", brand: "Velocity X", desc: "Men's High Cushion Sneakers - Black", price: 2599, oldPrice: 4899, discount: "47%" },
+  { id: "run-16", img: "./run/r16.avif", brand: "FleetMotion", desc: "Men's Breathable Running Shoes - Black", price: 2650, oldPrice: 5199, discount: "49%" },
+  { id: "run-17", img: "./run/r17.avif", brand: "PeakStride", desc: "Unisex Jogging Sneakers with Extra Cushion - Black", price: 2499, oldPrice: 4599, discount: "46%" },
+  { id: "run-18", img: "./run/r18.avif", brand: "SprintZone", desc: "Men's Flex Motion Road Running Shoes - Black", price: 1899, oldPrice: 3499, discount: "46%" },
+  { id: "run-19", img: "./run/r19.avif", brand: "RunEdge", desc: "Men's Lightweight Road Running Sneakers - Black", price: 2599, oldPrice: 4799, discount: "46%" },
+  { id: "run-20", img: "./run/r20.avif", brand: "UrbanPace Pro", desc: "Men's Breathable Mesh Running Shoes - Black", price: 2650, oldPrice: 5199, discount: "49%" }
+];

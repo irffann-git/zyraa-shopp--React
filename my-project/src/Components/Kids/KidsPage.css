@@ -1,0 +1,16 @@
+.cus-card img{
+cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+.cus-card img:hover{
+    transform: translateY(-15px) scale(1) rotate(-2deg);
+   box-shadow: 0 12px 25px rgba(0, 0, 0, 1.2);
+}
+.cust-card img{
+cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+.cust-card img:hover{
+    transform: translateY(-15px) scale(1) rotate(2deg);
+   box-shadow: 0 12px 25px rgba(0, 0, 0, 1.2);
+}

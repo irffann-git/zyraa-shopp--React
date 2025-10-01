@@ -1,0 +1,22 @@
+export const productWomen = [
+  { id: "women-1", brand: "Tikhi Imli", desc: "Red Silk Blend Heavy Sequence Work Co-Ord (Set of 2)", price: 1844, oldPrice: 4799, discount: "57%", img: "./women/w1.avif", tags: ["best seller", "latest style"] },
+  { id: "women-2", brand: "HOUSE OF JAMOTI", desc: "Pikes Spades Cotton Kurta with Pant and Inner (Set of 3)", price: 1899, oldPrice: 3499, discount: "40%", img: "./women/w2.avif", tags: ["best seller", "latest style"] },
+  { id: "women-3", brand: "KOTTY", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 500, oldPrice: 1999, discount: "72%", img: "./women/w3.avif", tags: ["best seller", "latest style"] },
+  { id: "women-4", brand: "KVS FAB", desc: "Women Purple Silk Blend Embroidered Kurta with Pant and Dupatta (Set of 3)", price: 2650, oldPrice: 4599, discount: "31%", img: "./women/w4.avif", tags: ["best seller", "latest style"] },
+  { id: "women-5", brand: "Lush Glam", desc: "Sophisticated Embroidered Kurta Pant with Dupatta (Set of 3)", price: 1990, oldPrice: 3399, discount: "67%", img: "./women/w5.avif", tags: ["best seller", "latest style"] },
+  { id: "women-6", brand: "Cider", desc: "Solid Linen Blend Belted Wide Leg Pants (Set of 2)", price: 2299, oldPrice: 3299, discount: "55%", img: "./women/w20.avif", tags: ["best seller", "latest style"] },
+  { id: "women-7", brand: "TPURYS", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 860, oldPrice: 1729, discount: "42%", img: "./women/w7.avif", tags: ["best seller", "latest style"] },
+  { id: "women-8", brand: "SATRANI", desc: "Red Printed Saree with Unstiched Blouse (two pieces)", price: 1799, oldPrice: 3899, discount: "31%", img: "./women/w17.avif", tags: ["best seller", "latest style"] },
+  { id: "women-9", brand: "Lush Glam", desc: "Sophisticated Embroidered Kurta Pant with Dupatta (Set of 3)", price: 1990, oldPrice: 3399, discount: "67%", img: "./women/w18.avif", tags: ["best seller", "latest style"] },
+  { id: "women-10", brand: "TPURYS", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 860, oldPrice: 1729, discount: "42%", img: "./women/w10.avif", tags: ["best seller", "latest style"] },
+  { id: "women-11", brand: "KOTTY", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 500, oldPrice: 1999, discount: "72%", img: "./women/w11.avif", tags: ["best seller", "latest style"] },
+  { id: "women-12", brand: "Tikhi Imli", desc: "Red Silk Blend Heavy Sequence Work Co-Ord (Set of 2)", price: 1844, oldPrice: 4799, discount: "57%", img: "./women/w12.avif", tags: ["best seller", "latest style"] },
+  { id: "women-13", brand: "Campus Sutra", desc: "Mens Crimson Red & Midnight Black Paisley Flora Shirt", price: 817, oldPrice: 1899, discount: "57%", img: "./women/w13.avif", tags: ["best seller", "latest style"] },
+  { id: "women-14", brand: "TPURYS", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 860, oldPrice: 1729, discount: "42%", img: "./women/w14.avif", tags: ["best seller", "latest style"] },
+  { id: "women-15", brand: "Lush Glam", desc: "Sophisticated Embroidered Kurta Pant with Dupatta (Set of 3)", price: 1990, oldPrice: 3399, discount: "67%", img: "./women/w15.avif", tags: ["best seller", "latest style"] },
+  { id: "women-16", brand: "KOTTY", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 500, oldPrice: 1999, discount: "72%", img: "./women/w16.avif", tags: ["best seller", "latest style"] },
+  { id: "women-17", brand: "Tikhi Imli", desc: "Red Silk Blend Heavy Sequence Work Co-Ord (Set of 2)", price: 1844, oldPrice: 4799, discount: "57%", img: "./women/w17.avif", tags: ["best seller", "latest style"] },
+  { id: "women-18", brand: "HOUSE OF JAMOTI", desc: "Pikes Spades Cotton Kurta with Pant and Inner (Set of 3)", price: 1899, oldPrice: 3499, discount: "40%", img: "./women/w9.avif", tags: ["best seller", "latest style"] },
+  { id: "women-19", brand: "TPURYS", desc: "Womens High Rise Viscose Rayon Flared Fit Solid Trousers", price: 860, oldPrice: 1729, discount: "42%", img: "./women/w19.avif", tags: ["best seller", "latest style"] },
+  { id: "women-20", brand: "Tikhi Imli", desc: "Red Silk Blend Heavy Sequence Work Co-Ord (Set of 2)", price: 1844, oldPrice: 4799, discount: "57%", img: "./women/w20.avif", tags: ["best seller", "latest style"] }
+];

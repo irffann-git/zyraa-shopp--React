@@ -1,0 +1,15 @@
+
+.dd{
+    height: 20px;
+}
+.dd h6{
+    color: green;
+}
+@media (max-width: 976px) {
+    .dd{
+        height: 0;
+    }
+    .dd h6{
+        display: none;
+    }
+}

@@ -1,0 +1,22 @@
+export const productNike = [
+  { id: "nike-1", img: "/shoes/nike/s1.avif", brand: "NIKE", desc: "Nike Air Zoom Pegasus 40 Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-2", img: "/shoes/nike/s2.avif", brand: "NIKE", desc: "Nike Revolution 6 Nature Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-3", img: "/shoes/nike/s3.avif", brand: "NIKE", desc: "Nike Downshifter 12 Road Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-4", img: "/shoes/nike/s4.avif", brand: "NIKE", desc: "Nike Renew Run 3 Cushioned Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-5", img: "/shoes/nike/s5.avif", brand: "NIKE", desc: "Nike Quest 5 Lightweight Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-6", img: "/shoes/nike/s6.avif", brand: "NIKE", desc: "Nike Flex Experience Run 11 Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-7", img: "/shoes/nike/s7.avif", brand: "NIKE", desc: "Nike Vaporfly 3 Racing Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-8", img: "/shoes/nike/s8.avif", brand: "NIKE", desc: "Nike Invincible 3 Max Cushion Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-9", img: "/shoes/nike/s9.avif", brand: "NIKE", desc: "Nike InfinityRN 4 Stability Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-10", img: "/shoes/nike/s10.avif", brand: "NIKE", desc: "Nike Air Max Alpha Trainer 5 Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-11", img: "/shoes/nike/s11.avif", brand: "NIKE", desc: "Nike Metcon 9 Gym & Training Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-12", img: "/shoes/nike/s12.avif", brand: "NIKE", desc: "Nike Blazer Mid ’77 Vintage Sneakers", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-13", img: "/shoes/nike/s13.avif", brand: "NIKE", desc: "Nike Court Vision Low Lifestyle Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-14", img: "/shoes/nike/s14.avif", brand: "NIKE", desc: "Nike Air Max 270 Lifestyle Sneakers", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-15", img: "/shoes/nike/s15.avif", brand: "NIKE", desc: "Nike Air Force 1 ’07 Classic Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-16", img: "/shoes/nike/s16.avif", brand: "NIKE", desc: "Nike Dunk Low Retro Sneakers", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-17", img: "/shoes/nike/s17.avif", brand: "NIKE", desc: "Nike Air Zoom Structure 24 Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-18", img: "/shoes/nike/s18.avif", brand: "NIKE", desc: "Nike Wildhorse 8 Trail Running Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-19", img: "/shoes/nike/s19.avif", brand: "NIKE", desc: "Nike ZoomX Streakfly Racing Shoes", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "nike-20", img: "/shoes/nike/s20.avif", brand: "NIKE", desc: "Nike Air Max Pulse Lifestyle Shoes", price: 2800, oldPrice: 5899, discount: "58%" }
+];

@@ -1,0 +1,22 @@
+export const productwood = [
+  { id: "wood-1", img: "/shoes/woodland/s1.webp", brand: "WOODLAND", desc: "Casual Leather Loafers", price: 2800, oldPrice: 5899, discount: "58%" },
+  { id: "wood-2", img: "/shoes/woodland/s2.webp", brand: "WOODLAND", desc: "Khaki Outdoor Sneakers", price: 2400, oldPrice: 5799, discount: "57%" },
+  { id: "wood-3", img: "/shoes/woodland/s3.webp", brand: "WOODLAND", desc: "Classic Desert Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-4", img: "/shoes/woodland/s4.webp", brand: "WOODLAND", desc: "Trail Hiking Boots", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-5", img: "/shoes/woodland/s5.webp", brand: "WOODLAND", desc: "Leather Casual Sneakers", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-6", img: "/shoes/woodland/s6.webp", brand: "WOODLAND", desc: "Formal Oxford Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-7", img: "/shoes/woodland/s7.webp", brand: "WOODLAND", desc: "Slip-On Moccasins", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-8", img: "/shoes/woodland/s8.webp", brand: "WOODLAND", desc: "Canvas Casual Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-9", img: "/shoes/woodland/s9.webp", brand: "WOODLAND", desc: "Urban Street Sneakers", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-10", img: "/shoes/woodland/s10.webp", brand: "WOODLAND", desc: "Leather Hiking Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-11", img: "/shoes/woodland/s11.webp", brand: "WOODLAND", desc: "Classic Slip-On Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-12", img: "/shoes/woodland/s12.webp", brand: "WOODLAND", desc: "High-Top Sneakers", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-13", img: "/shoes/woodland/s13.webp", brand: "WOODLAND", desc: "Leather Derby Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-14", img: "/shoes/woodland/s14.webp", brand: "WOODLAND", desc: "Trail Runner Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-15", img: "/shoes/woodland/s15.webp", brand: "WOODLAND", desc: "Outdoor Trekking Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-16", img: "/shoes/woodland/s16.webp", brand: "WOODLAND", desc: "Comfort Loafers", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-17", img: "/shoes/woodland/s17.webp", brand: "WOODLAND", desc: "Canvas Slip-On Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-18", img: "/shoes/woodland/s18.webp", brand: "WOODLAND", desc: "Leather Work Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-19", img: "/shoes/woodland/s19.webp", brand: "WOODLAND", desc: "Casual Street Shoes", price: 2140, oldPrice: 4999, discount: "58%" },
+  { id: "wood-20", img: "/shoes/woodland/s20.webp", brand: "WOODLAND", desc: "Highland Outdoor Shoes", price: 2140, oldPrice: 4999, discount: "58%" }
+];

@@ -1,0 +1,16 @@
+.icon a{
+    color: white;
+}
+.icon a:hover{
+    color: red;
+}
+Nav a{
+    text-decoration: none;
+}
+Nav a{
+    color: white;
+    font-weight: bold;
+}
+Nav a:hover{
+    color: red;
+}
